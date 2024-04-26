@@ -1,0 +1,3 @@
+float64 robot_radius
+float64 inflation_radius
+uoa_poc3_msgs/r_corner[] footprint

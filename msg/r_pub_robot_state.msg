@@ -1,0 +1,9 @@
+string id
+string type
+string space
+string time
+string mode
+string errors
+geometry_msgs/Pose pose
+float64[36] covariance
+uoa_poc3_msgs/r_battery battery

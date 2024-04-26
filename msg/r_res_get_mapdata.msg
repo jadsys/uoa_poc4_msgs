@@ -1,0 +1,3 @@
+r_map_info map_info
+nav_msgs/OccupancyGrid map_data
+uint32 status_code

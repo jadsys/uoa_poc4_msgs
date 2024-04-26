@@ -1,0 +1,4 @@
+r_map_info map_info
+nav_msgs/OccupancyGrid map_data
+bool is_format_location
+bool is_use_latest

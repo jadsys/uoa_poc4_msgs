@@ -1,0 +1,3 @@
+r_map_info info
+bool is_format_location
+bool is_use_latest
